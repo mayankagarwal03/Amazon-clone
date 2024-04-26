@@ -53,7 +53,7 @@
 .search_box{
     display:flex;
     height: 40px;
-    width:55%;
+    width:50%;
     align-items: center;
     border-radius: 5px;
     justify-content: space-evenly;
@@ -117,7 +117,9 @@
     color:#828181;
     font-size: 14px;
     width:120px;
+    font-weight: 600;
 }
+
 .return{
     height:40px;
     width: 60px;
@@ -130,13 +132,17 @@
     font-size:12px;
     margin-top: 9px;
 }
-.return12{
+.return2{
     color:#FFFFFF;
+    font-weight: 700;
 }
 .cart{
     color:white;
     height:40px;
     width:40px;
     font-size: 1.6rem;
-    margin-top:10px;
+    padding:5px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
