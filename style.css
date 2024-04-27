@@ -289,3 +289,11 @@
 .box2-line2-txt2{
     margin:0px 0px 0px 45px;
 }
+.footer-panel{
+    display: flex;
+    justify-content: center;
+    height:50px;
+    align-items: center;
+    background-color: #222f3d;
+    color:#FFFFFF;
+}
