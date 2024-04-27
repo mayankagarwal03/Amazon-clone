@@ -308,9 +308,10 @@
     
 }
 .footbar p{
-    font-size: 16px;
+    font-size: 20px;
     font-weight: 700;
     margin-top: 50px;
+    margin-bottom: 20px;
 }
 .footbar a{
     font-size:14px;
