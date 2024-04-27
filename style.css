@@ -186,3 +186,8 @@
     padding-top: 2px;
     font-weight: 700;
 }
+.hero-section{
+    background-image: url("hero_image.jpg");
+    height:600px;
+    background-size: cover;
+}
