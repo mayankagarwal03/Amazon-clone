@@ -1,1 +1,1 @@
-Here we are only using html to make a amazon clone(Date- 17 March 2024)
+Here we are only using html and css to make a amazon clone
