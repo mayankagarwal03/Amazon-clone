@@ -195,15 +195,16 @@
 .shop{
     background-color: #e2e7e6;
     display: flex;
+    flex-wrap:wrap;
     justify-content: space-evenly;
+    
 }
 .box{
     height:300px;
     background-color: #FFFFFF;
     /*border: 2px solid black;*/
-    margin-left:15px;
-    margin-right: 15px;
-    width:23%;
+    margin: 15px 15px 15px 15px;
+    width:20%;
     padding: 20px 20px 15px 20px;
 }
 .box1-img{
@@ -280,11 +281,11 @@
     margin:0px 45px 0px 0px;
 }
 .box2-line1-txt2{
-    margin:0px 0px 0px 45px;
+    margin:0px 0px 0px 50px;
 }
 .box2-line2-txt1{
     margin:0px 45px 0px 0px;
 }
 .box2-line2-txt2{
-    margin:0px 0px 0px 40px;
+    margin:0px 0px 0px 45px;
 }
